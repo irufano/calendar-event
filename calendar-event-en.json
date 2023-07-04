@@ -154,8 +154,8 @@
     "event": [
       {
         "holiday": true,
-        "name": "International Labor's Day",
-        "type": "International Holiday"
+        "name": "Labor's Day",
+        "type": "National Holiday"
       }
     ]
   },
@@ -394,8 +394,8 @@
     "event": [
       {
         "holiday": true,
-        "name": "International Labor's Day",
-        "type": "International Holiday"
+        "name": "Labor's Day",
+        "type": "National Holiday"
       }
     ]
   },
