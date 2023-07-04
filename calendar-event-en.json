@@ -1,0 +1,522 @@
+[
+  {
+    "date": "2023-01-01",
+    "event": [
+      {
+        "holiday": true,
+        "name": "New Year's Day",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-01-22",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Lunar New Year",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-01-23",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Lunar New Year Collective Leave",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-02-18",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Isra Mi'raj Prophet Muhammad SAW",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-03-22",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Nyepi Holy Day (Saka New Year)",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-03-23",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Nyepi Holy Day (Saka New Year) Collective Leave",
+        "type": "National Holiday"
+      },
+      {
+        "holiday": true,
+        "name": "Beginning of Ramadhan",
+        "type": "Celebration"
+      }
+    ]
+  },
+  {
+    "date": "2023-04-07",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Good Friday",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-04-19",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Idul Fitri Collective Leave",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-04-20",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Idul Fitri Collective Leave",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-04-21",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Kartini's Day",
+        "type": "National Holiday"
+      },
+      {
+        "holiday": true,
+        "name": "Idul Fitri Collective Leave",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-04-22",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Idul Fitri Day",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-04-23",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Idul Fitri Day",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-04-24",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Idul Fitri Collective Leave",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-04-25",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Idul Fitri Collective Leave",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-05-1",
+    "event": [
+      {
+        "holiday": true,
+        "name": "International Labor's Day",
+        "type": "International Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-05-18",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Ascesion Day of Isa Al Masih",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-06-1",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Pancasila Born Day",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-06-2",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Waisak Collective Leave",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-06-4",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Waisak Day",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-06-29",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Idul Adha Day",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-07-19",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Hijri New Year",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-08-17",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Independence Day of the Republic of Indonesia",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-09-28",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Maulid Prophet Muhammad SAW",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-10-02",
+    "event": [
+      {
+        "holiday": false,
+        "name": "Batik's Day",
+        "type": "Celebration"
+      }
+    ]
+  },
+  {
+    "date": "2023-11-12",
+    "event": [
+      {
+        "holiday": false,
+        "name": "Father's Day",
+        "type": "Celebration"
+      }
+    ]
+  },
+  {
+    "date": "2023-11-25",
+    "event": [
+      {
+        "holiday": false,
+        "name": "Teacher's Day",
+        "type": "Celebration"
+      }
+    ]
+  },
+  {
+    "date": "2023-12-22",
+    "event": [
+      {
+        "holiday": false,
+        "name": "Mother's Day",
+        "type": "Celebration"
+      }
+    ]
+  },
+  {
+    "date": "2023-12-25",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Christmas Day",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2023-12-26",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Christmas Day Collective Leave (Boxing Day)",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-01-01",
+    "event": [
+      {
+        "holiday": true,
+        "name": "New Year's Day",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-02-08",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Isra Mi'raj Prophet Muhammad SAW",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-02-10",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Lunar New Year",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-03-11",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Nyepi Holy Day (Saka New Year)",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-03-12",
+    "event": [
+      {
+        "holiday": false,
+        "name": "Beginning of Ramadhan",
+        "type": "Celebration"
+      }
+    ]
+  },
+  {
+    "date": "2024-03-29",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Good Friday",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-04-10",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Idul Fitri Day",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-04-11",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Idul Fitri Day",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-04-21",
+    "event": [
+      {
+        "holiday": false,
+        "name": "Kartini's Day",
+        "type": "Celebration"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-01",
+    "event": [
+      {
+        "holiday": true,
+        "name": "International Labor's Day",
+        "type": "International Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-09",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Ascesion Day of Isa Al Masih",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-23",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Waisak Day",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-01",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Pancasila Born Day",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-17",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Idul Adha Day",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-07-07",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Hijri New Year",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-08-17",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Independence Day of the Republic of Indonesia",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-09-15",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Maulid Prophet Muhammad SAW",
+        "type": "National Holiday"
+      }
+    ]
+  },
+  {
+    "date": "2024-10-02",
+    "event": [
+      {
+        "holiday": false,
+        "name": "Batik's Day",
+        "type": "Celebration"
+      }
+    ]
+  },
+  {
+    "date": "2024-11-12",
+    "event": [
+      {
+        "holiday": false,
+        "name": "Father's Day",
+        "type": "Celebration"
+      }
+    ]
+  },
+  {
+    "date": "2024-11-25",
+    "event": [
+      {
+        "holiday": false,
+        "name": "Teacher's Day",
+        "type": "Celebration"
+      }
+    ]
+  },
+  {
+    "date": "2024-12-22",
+    "event": [
+      {
+        "holiday": false,
+        "name": "Mother's Day",
+        "type": "Celebration"
+      }
+    ]
+  },
+  {
+    "date": "2024-12-25",
+    "event": [
+      {
+        "holiday": true,
+        "name": "Christmas Day",
+        "type": "National Holiday"
+      }
+    ]
+  }
+]
