@@ -4,7 +4,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "New Year's Day",
+        "name": "Tahun Baru",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -15,7 +15,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Lunar New Year",
+        "name": "Tahun Baru Imlek",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -26,7 +26,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Lunar New Year Collective Leave",
+        "name": "Cuti Bersama Tahun Baru Imlek",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -37,7 +37,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Isra Mi'raj Prophet Muhammad SAW",
+        "name": "Isra Mi'raj Nabi Muhammad SAW",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -48,7 +48,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Nyepi Holy Day (Saka New Year)",
+        "name": "Hari Raya Nyepi (Tahun Baru Saka)",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -59,13 +59,13 @@
     "event": [
       {
         "holiday": true,
-        "name": "Nyepi Holy Day (Saka New Year) Collective Leave",
+        "name": "Cuti Bersama Hari Raya Nyepi (Tahun Baru Saka)",
         "type": "Hari Libur Nasional",
         "typeId": 1
       },
       {
         "holiday": true,
-        "name": "Beginning of Ramadhan",
+        "name": "Awal Ramadhan",
         "type": "Perayaan",
        "typeId": 2
       }
@@ -76,7 +76,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Good Friday",
+        "name": "Wafat Isa Al Masih",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -87,7 +87,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Idul Fitri Collective Leave",
+        "name": "Cuti Bersama Idul Fitri",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -98,7 +98,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Idul Fitri Collective Leave",
+        "name": "Cuti Bersama Idul Fitri",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -109,13 +109,13 @@
     "event": [
       {
         "holiday": true,
-        "name": "Kartini's Day",
+        "name": "Hari Kartini",
         "type": "Hari Libur Nasional",
         "typeId": 1
       },
       {
         "holiday": true,
-        "name": "Idul Fitri Collective Leave",
+        "name": "Cuti Bersama Idul Fitri",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -126,7 +126,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Idul Fitri Day",
+        "name": "Hari Raya Idul Fitri",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -137,7 +137,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Idul Fitri Day",
+        "name": "Hari Raya Idul Fitri",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -148,7 +148,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Idul Fitri Collective Leave",
+        "name": "Cuti Bersama Idul Fitri",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -159,7 +159,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Idul Fitri Collective Leave",
+        "name": "Cuti Bersama Idul Fitri",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -170,7 +170,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Labor's Day",
+        "name": "Hari Buruh",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -181,7 +181,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Ascesion Day of Isa Al Masih",
+        "name": "Kenaikan Isa Al Masih",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -192,7 +192,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Pancasila Born Day",
+        "name": "Hari Lahit Pancasila",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -203,7 +203,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Waisak Collective Leave",
+        "name": "Cuti Bersama Waisak",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -214,7 +214,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Waisak Day",
+        "name": "Hari Raya Waisak",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -225,7 +225,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Idul Adha Day",
+        "name": "Hari Raya Idul Adha",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -236,7 +236,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Hijri New Year",
+        "name": "Tahun Baru Hijriyah",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -247,7 +247,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Independence Day of the Republic of Indonesia",
+        "name": "Hari Kemerdekaan Republik Indonesia",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -258,7 +258,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Maulid Prophet Muhammad SAW",
+        "name": "Maulid Nabi Muhammad SAW",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -269,7 +269,7 @@
     "event": [
       {
         "holiday": false,
-        "name": "Batik's Day",
+        "name": "Hari Batik",
         "type": "Perayaan",
        "typeId": 2
       }
@@ -280,7 +280,7 @@
     "event": [
       {
         "holiday": false,
-        "name": "Father's Day",
+        "name": "Hari Ayah",
         "type": "Perayaan",
        "typeId": 2
       }
@@ -291,7 +291,7 @@
     "event": [
       {
         "holiday": false,
-        "name": "Teacher's Day",
+        "name": "Hari Guru",
         "type": "Perayaan",
        "typeId": 2
       }
@@ -302,7 +302,7 @@
     "event": [
       {
         "holiday": false,
-        "name": "Mother's Day",
+        "name": "Hari Ibu",
         "type": "Perayaan",
        "typeId": 2
       }
@@ -313,7 +313,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Christmas Day",
+        "name": "Hari Raya Natal",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -324,7 +324,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Christmas Day Collective Leave (Boxing Day)",
+        "name": "Cuti Bersama Natal",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -335,7 +335,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "New Year's Day",
+        "name": "Tahun Baru",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -346,7 +346,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Isra Mi'raj Prophet Muhammad SAW",
+        "name": "Isra Mi'raj Nabi Muhammad SAW",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -357,7 +357,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Lunar New Year",
+        "name": "Tahun Baru Imlek",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -368,7 +368,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Nyepi Holy Day (Saka New Year)",
+        "name": "Hari Raya Nyepi (Tahun Baru Saka)",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -379,7 +379,7 @@
     "event": [
       {
         "holiday": false,
-        "name": "Beginning of Ramadhan",
+        "name": "Awal Ramadhan",
         "type": "Perayaan",
        "typeId": 2
       }
@@ -390,7 +390,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Good Friday",
+        "name": "Wafat Isa Al Masih",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -401,7 +401,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Idul Fitri Day",
+        "name": "Hari Raya Idul Fitri",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -412,7 +412,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Idul Fitri Day",
+        "name": "Hari Raya Idul Fitri",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -423,7 +423,7 @@
     "event": [
       {
         "holiday": false,
-        "name": "Kartini's Day",
+        "name": "Hari Kartini",
         "type": "Perayaan",
        "typeId": 2
       }
@@ -434,7 +434,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Labor's Day",
+        "name": "Hari Buruh",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -445,7 +445,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Ascesion Day of Isa Al Masih",
+        "name": "Kenaikan Isa Al Masih",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -456,7 +456,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Waisak Day",
+        "name": "Hari Raya Waisak",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -467,7 +467,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Pancasila Born Day",
+        "name": "Hari Lahit Pancasila",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -478,7 +478,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Idul Adha Day",
+        "name": "Hari Raya Idul Adha",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -489,7 +489,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Hijri New Year",
+        "name": "Tahun Baru Hijriyah",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -500,7 +500,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Independence Day of the Republic of Indonesia",
+        "name": "Hari Kemerdekaan Republik Indonesia",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -511,7 +511,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Maulid Prophet Muhammad SAW",
+        "name": "Maulid Nabi Muhammad SAW",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
@@ -522,7 +522,7 @@
     "event": [
       {
         "holiday": false,
-        "name": "Batik's Day",
+        "name": "Hari Batik",
         "type": "Perayaan",
        "typeId": 2
       }
@@ -533,7 +533,7 @@
     "event": [
       {
         "holiday": false,
-        "name": "Father's Day",
+        "name": "Hari Ayah",
         "type": "Perayaan",
        "typeId": 2
       }
@@ -544,7 +544,7 @@
     "event": [
       {
         "holiday": false,
-        "name": "Teacher's Day",
+        "name": "Hari Guru",
         "type": "Perayaan",
        "typeId": 2
       }
@@ -555,7 +555,7 @@
     "event": [
       {
         "holiday": false,
-        "name": "Mother's Day",
+        "name": "Hari Ibu",
         "type": "Perayaan",
        "typeId": 2
       }
@@ -566,7 +566,7 @@
     "event": [
       {
         "holiday": true,
-        "name": "Christmas Day",
+        "name": "Hari Raya Natal",
         "type": "Hari Libur Nasional",
         "typeId": 1
       }
